@@ -1,36 +1,4 @@
-Skip to content
-Navigation Menu
-gatagit
-snowagents
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-You only have a single verified email address. We recommend verifying at least one more email address to ensure you can recover your account if you lose access to your primary email.
-
-
-snowagents
-/snowcmdbagentflow
-Go to file
-t
-gatagit
-gatagit
-Create snowcmdbagentflow
-03babda
- · 
-now
-
-Code
-
-Blame
-53 lines (45 loc) · 1.04 KB
+'''mermaid
 flowchart TD
   subgraph User & Governance
     U[CMDB Manager / CAB]
@@ -84,4 +52,3 @@ flowchart TD
   NORM --> RAG
   REL --> CMDB
   DEDUP --> CMDB
-snowagents/snowcmdbagentflow at main · gatagit/snowagentsWhile the code is focused, press Alt+F1 for a menu of operations.
